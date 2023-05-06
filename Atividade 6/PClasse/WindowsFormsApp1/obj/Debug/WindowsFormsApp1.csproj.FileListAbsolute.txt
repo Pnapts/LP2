@@ -1,0 +1,35 @@
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\brsil\OneDrive\Área de Trabalho\Visual\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmExercicio2.resources
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmExercicio2.resources
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmExercicio3.resources
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\0030482223038\Desktop\PMenu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmHorista.resources
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMensalista.resources
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\0030482223038\Desktop\PClasse\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
